@@ -9,5 +9,5 @@ This package is designed to automate some important steps when doing research on
 2. 导入event_driven.py文件，并创建EventDriven类的实例。\
 from event_driven import EventDriven \
 event = EventDriven() \
-然后可以通过实例对象调用一系列接口，具体可参考demo.py.\
+然后可以通过实例对象调用一系列接口，具体可参考demo.py\
 接口调用文档说明：https://www.showdoc.cc/EventDriven?page_id=1441598469644058
